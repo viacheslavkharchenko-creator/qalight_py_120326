@@ -57,3 +57,4 @@ if __name__ == "__main__":
 
     test_result = sum_numbers_in_list("21")  # ValueError
     print(test_result)
+
