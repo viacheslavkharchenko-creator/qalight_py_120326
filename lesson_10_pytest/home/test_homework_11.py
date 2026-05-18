@@ -11,11 +11,7 @@ import pytest
 """
 def test_add():
     assert add(1,2)==3
-
-def test_add_zero():
     assert add(23,0)==23
-
-def test_add_negative_values():
     assert add(-1,-2)==-3
 
 """
